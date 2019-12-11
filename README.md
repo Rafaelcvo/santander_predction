@@ -1,1 +1,1 @@
-# santander_predction
+Nesse desafio, convidamos a Kagglers a nos ajudar a identificar quais clientes farão uma transação específica no futuro, independentemente da quantidade de dinheiro transacionada. Os dados fornecidos para esta competição têm a mesma estrutura que os dados reais que temos disponíveis para resolver este problema.
